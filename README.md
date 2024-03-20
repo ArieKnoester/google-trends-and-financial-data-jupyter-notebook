@@ -1,7 +1,5 @@
 # google-trends-and-financial-data-jupyter-notebook
 
-Work in progress
-
 A Jupyter Notebook exercise which compares Google Trends (Web search data) with other time series data.
 
 Sources:
